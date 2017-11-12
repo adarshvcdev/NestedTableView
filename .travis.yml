@@ -1,0 +1,9 @@
+osx_image: xcode9.1
+language: swift
+
+xcode_project: NestedTable.xcodeproj
+
+# whitelist
+branches:
+only:
+- master
